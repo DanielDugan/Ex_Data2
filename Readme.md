@@ -69,7 +69,7 @@ Compare emissions from motor vehicle sources in Baltimore City with emissions fr
 
 ##Making and Submitting Plots
 
-###For each plot you should
+##For each plot you should
 
 Construct the plot and save it to a PNG file.
 
